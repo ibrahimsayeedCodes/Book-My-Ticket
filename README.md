@@ -1,0 +1,3 @@
+“Book My Ticket” is a full-stack web application developed to simplify the process of booking movie tickets online. The system is designed with two main modules: Admin and User. The Admin module allows administrators to manage movies, theaters, screens, seat layouts, and user accounts. The User module enables users to register using OTP-based email verification, browse available movies and shows, select seats, make secure online payments, and receive QR-coded tickets for entry validation. 
+ 
+The application provides a seamless and user-friendly interface for booking tickets while ensuring efficient management of data and transactions. It integrates modern technologies to deliver real-time booking functionality and secure payment processing.
